@@ -1,4 +1,4 @@
-# Portfolio: Data Visualization - Storytelling with Data
+# Portfolio: Data Visualization - Storytelling with R
 
 Goals of this Portfolio: 
 
