@@ -10,7 +10,7 @@ library(data.table)
 library(ggmap)
 
 
-register_google(key="AIzaSyD-F8MF62Kg0ITsjP_q8B1Idva_pURNyFA")
+register_google(key="YOUR_KEY")
 
 load("gps.RData")
 
